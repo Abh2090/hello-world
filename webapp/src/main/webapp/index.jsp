@@ -22,6 +22,7 @@ not displayed. The information between the BODY and /BODY tags is displayed.-->
 <p>Add a link to your favorite <a href="https://www.dummies.com/">Web site</a>.
 Break up your page with a horizontal rule or two. </p>
 <hr>
+<img src="https://plus.unsplash.com/premium_photo-1683865776032-07bf70b0add1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dXJsfGVufDB8fDB8fHww" alt="pic" />
 <p>Finally, link to <a href="page2.html">another page</a> in your own Web site.</p>
 <!-- And add a copyright notice.-->
 <p>© Wiley Publishing, 2011</p>
