@@ -15,7 +15,7 @@ not displayed. The information between the BODY and /BODY tags is displayed.-->
 <ul>
 <li>The first item in your list</li>
 <li>The second item; <i>italicize</i> key words</li>
-<img src="https://www.example.com/images/dinosaur.jpg" alt="Dinosaur" />
+<img src="https://www.google.com" alt="google website not found" />
 
 </ul>
 <p>Improve your image by including an image. </p>
