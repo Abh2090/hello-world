@@ -1,3 +1,4 @@
+
 <html>
 <!-- Text between angle brackets is an HTML tag and is not displayed.
 Most tags, such as the HTML and /HTML tags that surround the contents of
@@ -17,6 +18,7 @@ not displayed. The information between the BODY and /BODY tags is displayed.-->
 <li>The first item in your list</li>
 <li>The second item; <i>italicize</i> key words</li>
 </ul>
+<img src="https://plus.unsplash.com/premium_photo-1683865776032-07bf70b0add1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dXJsfGVufDB8fDB8fHww" alt="pic" />
 <p>Improve your image by including an image. </p>
 <p><img src="http://www.mygifs.com/CoverImage.gif" alt="A Great HTML Resource"></p>
 <p>Add a link to your favorite <a href="https://www.dummies.com/">Web site</a>.
